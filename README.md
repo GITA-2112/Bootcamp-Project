@@ -21,13 +21,21 @@ Implementing CRISP-DM (Cross-Industry Standard Process for Data Mining), framewo
    - Decision Tree Classifier
    - Random Forest Classifier
 6. Metrics Evaluation for Binary Sentiment Classification (Positive / Negative)
-   - Precision measures the proportion of true positive predictions (correctly   predicted positive sentiment) among all positive predictions.
+   - Precision measures the proportion of true positive predictions (correctly predicted positive sentiment) among all positive predictions.
    - Recall (Sensitivity) measures the proportion of true positive predictions among all actual positive instances
    - F1- Score measure the balancing between precision and recall
 8. Cross Validation : Consider using k-fold cross-validation for a robust evaluation
-9. Imbalance Handling
-10. Hyperparameter Tuning
-11. Evaluation
-12. Model Deployment
+![image](https://github.com/GITA-2112/Bootcamp-Project/assets/135007275/ff8bdf49-0c65-4a64-b7fb-ed049cb660bc)
+10. Imbalance Handling
+11. Hyperparameter Tuning
+12. Evaluation
+13. Model Deployment
 
 ## Applied Algorithm & Metrics Evaluation
+- Metrics Evaluation Train & Test
+![image](https://github.com/GITA-2112/Bootcamp-Project/assets/135007275/6729e7d4-5d95-4cd2-a6d7-854354766509)
+- Metrics Evaluation After Imbalance Dataset Handling - Oversampling with SMOTE
+![image](https://github.com/GITA-2112/Bootcamp-Project/assets/135007275/a4777856-db06-46ab-ad57-24f5a3b55b37)
+
+
+
