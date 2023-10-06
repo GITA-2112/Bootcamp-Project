@@ -37,5 +37,14 @@ Implementing CRISP-DM (Cross-Industry Standard Process for Data Mining), framewo
 - Metrics Evaluation After Imbalance Dataset Handling - Oversampling with SMOTE
 ![image](https://github.com/GITA-2112/Bootcamp-Project/assets/135007275/a4777856-db06-46ab-ad57-24f5a3b55b37)
 
+## Model Deployment 
+API or web service that exposes sentiment analysis model.
+
+## Future Works
+1. Review Express is an automation tool that sends review requests via email.
+   also add private surveys to the emails and ask for deeper feedback.
+2. Review Express - Written reviews directly generate "Rating Automation"
+   
+
 
 
